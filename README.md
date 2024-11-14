@@ -19,21 +19,7 @@ Aspiring Data Scientist passionate about building impactful, data-driven solutio
   
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>    
 
 
 ## Languages and Tools  
